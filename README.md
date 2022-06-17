@@ -1,7 +1,6 @@
-- @slimgotthekeys
-- interested in py
+- interested in python
 - currently learning py 
-- IDE > pycharm
+
 
 
 <!---
